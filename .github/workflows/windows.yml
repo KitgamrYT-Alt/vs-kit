@@ -38,6 +38,7 @@ jobs:
           haxelib setup "%HAXELIB_ROOT%"
           haxelib install lime 
           RefreshEnv
+          haxelib install lime 
           haxelib install openfl
           haxelib install flixel
           haxelib install hxcpp-debug-server 1.2.4 
